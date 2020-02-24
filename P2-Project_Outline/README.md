@@ -7,12 +7,13 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-According to Food Allergy Reseacrh there has been a 377% increase in anaphylactic reactions since 2007, and every 3 minutes a food allergy sends someone to the emergecy room. Most of these situations involve childeren who don't have much say in what ends up on their plate. Between what foods are safe and what information the doctor needs there has to be a solution. The application I'm working on will be able to document safe and allergen foods for indiviual children, as well as the reactions they cause and what to do if consumed. I also plan to implement the capability of documenting the introduction of new foods and the noted reaction with time stamps. I also want to include more rescources for people who deal with allergies such as blogs, recipies, and restaurant lists. All of this will be based around the eight main allergen foods.
+According to Food Allergy Reseacrh there has been a 377% increase in anaphylactic reactions since 2007, and every 3 minutes a food allergy sends someone to the emergecy room. Most of these situations involve childeren who don't have much say in what ends up on their plate. Between remembering which foods are safe and correctly documenting information a doctor may need, a solution is necessary. The application I'm working on will be able to document safe and allergen foods for indiviual children, as well as the reactions they cause and what to do if consumed. I also plan to implement the capability of documenting the introduction of new foods and the noted reaction with time stamps. I also want to include more rescources for people who deal with allergies such as blogs, recipies, and restaurant lists. All of this will be based around the eight main allergen foods.
 ### Features
 User Login: being able to get your own individual information for confidentiality 
 Search: being able to search if a food has been added already
 Adding & Removing: foods, symptoms, indivuals needing information documented
 API: recipes or restaurants being able to be sorted by allergen friendliness
+FORUM: ability to connect with other users
 
 ### Technologies
 JAVA
@@ -21,11 +22,11 @@ CSS
 SPRINGBOOT
 ANGULAR
 STORMPATH API for authorization purposes?-- needs more reseacrh before officially decided
-Possibly a Facebook API - unsure of what that entails and displays??
-Possibly a Recipe API
+links to/create support forum or blog
+Possibly a Recipe API - 
 
 ### What I'll Have to Learn
-How to implement an API in a way that it makes sense and flows with what I'm trying to accomplish.
+How to implement an API as well as adding a forum in a way that it makes sense and flows with what I'm trying to accomplish.
 
 ### Project Tracker
 https://trello.com/b/Oo7b0Rvz/allergen-documentation
